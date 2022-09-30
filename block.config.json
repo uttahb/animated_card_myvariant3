@@ -1,0 +1,13 @@
+{
+  "name": "animated_card_myvariant3",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/uttahb/animated_card_myvariant3",
+    "ssh": "git@github.com:uttahb/animated_card_myvariant3.git"
+  },
+  "language": "js",
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack",
+  "postPull": "npm i",
+  "standAloneBlock": true
+}
