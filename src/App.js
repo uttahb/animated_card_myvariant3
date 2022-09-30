@@ -1,9 +1,9 @@
 import React from 'react'
-import Animated_card_myvariant3 from './animated_card_myvariant3'
+import Animated_card from './animated_card'
 export default function App() {
   return (
     <div>
-      <Animated_card_myvariant3/>
+      <Animated_card/>
     </div>
   )
 }
